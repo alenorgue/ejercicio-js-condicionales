@@ -3,7 +3,7 @@
 Mira este vídeo antes de hacer el los siguientes ejercicios: https://www.youtube.com/watch?v=ovWYhDVQiR8
 
 1. Antes de ejecutar "node ex6.js"; razona: qué vamos a ver por el terminal? ¿Por qué ?
-
+No, porque necesita cumplir las dos condiciones &&, y la segunda no se cumple.
 */
 
 if (4 > 3 && 6 > 5) {
